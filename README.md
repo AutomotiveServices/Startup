@@ -39,6 +39,11 @@ Step 3: The app reads the csv file and shows the captured information based on p
 
 Current status: We have done a part of step 1 where we can extract the coupon webpages given a webpage. We will need urls for this however which will be extracted from the yelp api(correct me if I am wrong).
 
+
+Note:
+Look for companies specific deals/coupons segregate them based on that car company
+Try to show as near my location deals ( available within 10 mines and 25 miles and overall)
+
 To do items:
 Bharat: 
 - Read information in the coupon images
@@ -50,6 +55,6 @@ Ravi:
 Heather & Pranay:
 - Get an idea on how to generate revenue out of this
 - What is a good way to market this?
-
+- Creating business plan
 
 Please continue adding detailed approaches when performing the tasks and keep updating this so that we are in sync<br />
