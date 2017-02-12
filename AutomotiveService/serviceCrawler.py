@@ -44,7 +44,7 @@ def canonicalization(url,root):
         url_split=url.split('//')
         if len(url_split)>1:
             #url_split[1] = url_split[1].replace('/.+','')
-            url_split[1] = re.sub('/.+/','/',url_split[1]).strip()#url_split[1].replace('/.+','')
+            #url_split[1] = re.sub('/.+/','/',url_split[1]).strip()#url_split[1].replace('/.+','')
             url_split[1] = re.sub( '/+', '/', url_split[1]).strip()
             url = url_split[0] + '//' + url_split[1]
 
@@ -98,14 +98,15 @@ def crawling_initial_seeds(frontier,frontier_file):
         for link in soup.find_all('a'):
             if 'href' in link.attrs:
                 url = canonicalization(link.attrs['href'],seed)
-                if url:
-                    frontier_seeds.add(url)
-                    if url in incoming_links:
-                        incoming_links[url]=incoming_links[url]+1
+                if 'offer' in url or 'coupon' in url:
+                    if url:
+                        frontier_seeds.add(url)
+                        if url in incoming_links:
+                            incoming_links[url]=incoming_links[url]+1
+                        else:
+                            incoming_links[url]=1
                     else:
-                        incoming_links[url]=1
-                else:
-                    continue
+                        continue
 
         frontier_iteration = frontier_iteration.union(frontier_seeds)
         i=1
@@ -130,6 +131,6 @@ incoming_links = {}#{'http://www.epa.gov/radiation/rert/tmi.html':1}
 i=0
 
 #crawling initial seed first
-seeds = set(['http://www.espnfc.us/gamecast/422512/gamecast.html'])
+seeds = set(['http://www.firestonecompleteautocare.com/offers/'])
 
 frontier,iterated,incoming_links = crawling_initial_seeds(seeds,frontier_file)
