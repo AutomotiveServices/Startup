@@ -1,0 +1,358 @@
+{
+  "searchResult": {
+    "metaProperties": {
+      "@xsi.type": "couponMetaProperties",
+      "errorCode": "",
+      "listingCount": 5,
+      "message": "",
+      "inputParams": {
+        "@xsi.type": "couponsRequest",
+        "appId": "zmts56892d",
+        "dnt": "",
+        "format": "json",
+        "userIpAddress": "10.3.16.23",
+        "userReferrer": "internalReferrer",
+        "requestId": "623b14cc-ee58-4ad5-a46a-7cfca45bca38",
+        "test": "",
+        "userAgent": "PostmanRuntime/3.0.11-hotfix.2",
+        "visitorId": "zmts56892d",
+        "listingCount": 5,
+        "pageNum": 1,
+        "searchLoc": "02139",
+        "term": "auto"
+      },
+      "requestId": "623b14cc-ee58-4ad5-a46a-7cfca45bca38",
+      "resultCode": "Success",
+      "trackingRequestURL": "http://c.ypcdn.com/2/i/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&lsrc=IY_MDM&cp=_____"
+    },
+    "searchListings": {
+      "searchListing": [
+        {
+          "businessName": "Honda Cars of Boston",
+          "city": "Everett",
+          "couponCount": 1,
+          "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=465325009&lid=465325009&tl=4&lsrc=MDM&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F465325009%3Ffrom%3Dpubapi_zmts56892d",
+          "coupons": {
+            "coupon": [
+              {
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2015-10-02 21:20:32.0",
+                "couponDescription": "Includes Installation! ",
+                "couponDisclaimer": "Not to be combined with any other offers, coupons or discounts. Coupon must be presented at time of write-up. Limit one ",
+                "couponExpiration": "",
+                "couponId": "11762D28-9C6C-4B26-30FF-84D5F8907000",
+                "couponSourceCode": "YPC",
+                "couponStartDate": "2015-10-02",
+                "couponTitle": "Genuine Honda Battery for $129.95",
+                "couponURL": "",
+                "couponUpdatedAt": "2015-10-02 21:20:34.0",
+                "id": "11762D28-9C6C-4B26-30FF-84D5F8907000"
+              }
+            ]
+          },
+          "distance": 2.96186685545434,
+          "latitude": 42.39747,
+          "listingId": 465325009,
+          "longitude": -71.06502,
+          "phone": "(617) 981-7907",
+          "state": "MA",
+          "street": "100 Broadway",
+          "websiteURL": "",
+          "zip": "02149"
+        },
+        {
+          "businessName": "Vins Auto",
+          "city": "Revere",
+          "couponCount": 7,
+          "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=13816245&lid=1000229142817&tl=4&lsrc=IY&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1000229142817%3Ffrom%3Dpubapi_zmts56892d",
+          "coupons": {
+            "coupon": [
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2015-06-02 17:07:20.0",
+                "couponDescription": "Call for Details. Must present this coupon to receive discount.",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "11544336-E3F6-1A96-BCBF-9A0C9A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "Brake Special Only $99.95 per axle!",
+                "couponURL": "",
+                "couponUpdatedAt": "2015-06-06 03:13:07.0",
+                "id": "11544336-E3F6-1A96-BCBF-9A0C9A833D00"
+              },
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2015-06-02 17:07:20.0",
+                "couponDescription": "With Minimum Purchase $100",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "11B57FCD-6A88-0CC0-BCBF-C7719A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "Like Us On Facebook & Get 10% Off Labor Charges!",
+                "couponURL": "",
+                "couponUpdatedAt": "2015-06-06 03:13:07.0",
+                "id": "11B57FCD-6A88-0CC0-BCBF-C7719A833D00"
+              },
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2015-06-02 17:07:20.0",
+                "couponDescription": "Call for Details. Must present this coupon to receive discount.",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "11F5C124-F08A-FB42-BCBF-D9159A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "Oil Change Special ONLY $19.95 (most cars)",
+                "couponURL": "",
+                "couponUpdatedAt": "2015-06-06 03:13:07.0",
+                "id": "11F5C124-F08A-FB42-BCBF-D9159A833D00"
+              },
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2015-06-06 03:07:08.0",
+                "couponDescription": "Call for Details. Must present this coupon to receive discount.",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "1868BBF3-03BD-0519-D7F0-B6139A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "Brake Special! ONLY $99.95 per axle!",
+                "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=13816245&lid=1000229142817&tl=4&lsrc=IY&dest=http%3A%2F%2Fwww.vinsauto.com%2Fhome-copy",
+                "couponUpdatedAt": "2015-06-06 03:13:07.0",
+                "couponUrl": "http://www.vinsauto.com/home-copy",
+                "id": "1868BBF3-03BD-0519-D7F0-B6139A833D00"
+              },
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2015-06-06 03:07:08.0",
+                "couponDescription": "Call for Details. Must present this coupon to receive discount.",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "1F5BC7A3-70A4-4079-D7F0-68C89A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "Oil Change Special! ONLY $19.95 (most cars)",
+                "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=13816245&lid=1000229142817&tl=4&lsrc=IY&dest=http%3A%2F%2Fwww.vinsauto.com%2Fhome-copy",
+                "couponUpdatedAt": "2015-06-06 03:13:07.0",
+                "couponUrl": "http://www.vinsauto.com/home-copy",
+                "id": "1F5BC7A3-70A4-4079-D7F0-68C89A833D00"
+              },
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2015-06-06 03:07:08.0",
+                "couponDescription": "",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "26D820FD-1232-0139-D7F0-A2FE9A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "",
+                "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=13816245&lid=1000229142817&tl=4&lsrc=IY&dest=http%3A%2F%2Fwww.vinsauto.com%2Fhome-copy",
+                "couponUpdatedAt": "2015-06-06 03:13:07.0",
+                "couponUrl": "http://www.vinsauto.com/home-copy",
+                "id": "26D820FD-1232-0139-D7F0-A2FE9A833D00"
+              },
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2015-06-06 03:07:08.0",
+                "couponDescription": "",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "253E2080-F9BF-0ED9-D7F0-A7229A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "with minimum purchase of $100",
+                "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=13816245&lid=1000229142817&tl=4&lsrc=IY&dest=http%3A%2F%2Fwww.vinsauto.com%2Fhome-copy",
+                "couponUpdatedAt": "2015-06-06 03:13:07.0",
+                "couponUrl": "http://www.vinsauto.com/home-copy",
+                "id": "253E2080-F9BF-0ED9-D7F0-A7229A833D00"
+              }
+            ]
+          },
+          "distance": 5.99891558728948,
+          "latitude": 42.41404,
+          "listingId": 13816245,
+          "longitude": -71.00302,
+          "phone": "(781) 241-9926",
+          "state": "MA",
+          "street": "195 American Legion Hwy",
+          "websiteURL": "",
+          "zip": "02151"
+        },
+        {
+          "businessName": "Goodyear Auto Service Center",
+          "city": "",
+          "couponCount": 1,
+          "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=475358080&lid=1001485621931&tl=4&lsrc=IY&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1001485621931%3Ffrom%3Dpubapi_zmts56892d",
+          "coupons": {
+            "coupon": [
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2015-12-22 04:07:11.0",
+                "couponDescription": "",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "91A75C57-6779-19EC-BDF0-C44C9A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "",
+                "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=475358080&lid=1001485621931&tl=4&lsrc=IY&dest=http%3A%2F%2Fwww.goodyearautoservice.com%2Fcatalog%2Fcurrent_specials.jsp%3Futm_source%3Dyp%26utm_medium%3Diyp%26utm_campaign%3Dyp_pladv",
+                "couponUpdatedAt": "2016-10-07 03:10:22.0",
+                "couponUrl": "http://www.goodyearautoservice.com/catalog/current_specials.jsp?utm_source=yp&utm_medium=iyp&utm_campaign=yp_pladv",
+                "id": "91A75C57-6779-19EC-BDF0-C44C9A833D00"
+              }
+            ]
+          },
+          "distance": 4.81583900354111,
+          "latitude": "",
+          "listingId": 475358080,
+          "longitude": "",
+          "phone": "(888) 382-7247",
+          "state": "",
+          "street": "",
+          "websiteURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=475358080&lid=1001485621931&tl=6&lsrc=IY&dest=http%3A%2F%2Fwww.goodyearautoservice.com%2Fhome.jsp%3Futm_source%3Dyp%26utm_medium%3Diyp%26utm_campaign%3Dyp_pladv",
+          "zip": ""
+        },
+        {
+          "businessName": "Car-X Tire and Auto",
+          "city": "",
+          "couponCount": 1,
+          "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=470154234&lid=1001336018843&tl=4&lsrc=IY&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1001336018843%3Ffrom%3Dpubapi_zmts56892d",
+          "coupons": {
+            "coupon": [
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2015-11-04 18:09:11.0",
+                "couponDescription": "",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "BAD8BEA5-EA3B-C503-C8F0-D71C9A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "",
+                "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=470154234&lid=1001336018843&tl=4&lsrc=IY&dest=http%3A%2F%2Fwww.carx.com%2Flocation_search%2F",
+                "couponUpdatedAt": "2016-12-01 04:11:04.0",
+                "couponUrl": "http://www.carx.com/location_search/",
+                "id": "BAD8BEA5-EA3B-C503-C8F0-D71C9A833D00"
+              }
+            ]
+          },
+          "distance": 4.95080893338269,
+          "latitude": "",
+          "listingId": 470154234,
+          "longitude": "",
+          "phone": "",
+          "state": "",
+          "street": "",
+          "websiteURL": "",
+          "zip": ""
+        },
+        {
+          "businessName": "Maaco Collision Repair & Auto Painting",
+          "city": "",
+          "couponCount": 2,
+          "couponURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=480746695&lid=1000722674422&tl=4&lsrc=IY&dest=http%3A%2F%2Fwww.yellowpages.com%2Flistings%2Fcoupon%2F1000722674422%3Ffrom%3Dpubapi_zmts56892d",
+          "coupons": {
+            "coupon": [
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2014-10-04 17:07:13.0",
+                "couponDescription": "",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "533A4EB3-596C-F906-D7E0-87F09A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "10% off Collision Repair over $250",
+                "couponURL": "",
+                "couponUpdatedAt": "2016-12-10 05:29:16.0",
+                "id": "533A4EB3-596C-F906-D7E0-87F09A833D00"
+              },
+              {
+                "couponAttributes": {
+                  "attributionLogo": "http://i2.ypcdn.com/blob/0994b0275d4f3865019840cb5c322d4f32d31e11",
+                  "landingUrl": "Yellowpages.com",
+                  "noFollowLink": 0
+                },
+                "couponAttribution": "Provided by YP.com",
+                "couponBusinessLogo": "",
+                "couponCreatedAt": "2014-10-04 17:07:13.0",
+                "couponDescription": "",
+                "couponDisclaimer": "",
+                "couponExpiration": "",
+                "couponId": "4AF435C6-7DC0-FA86-D7E0-C0469A833D00",
+                "couponSourceCode": "YPC",
+                "couponTitle": "$50 off Auto Paint & Collision Services over $300!",
+                "couponURL": "",
+                "couponUpdatedAt": "2016-12-10 05:29:16.0",
+                "id": "4AF435C6-7DC0-FA86-D7E0-C0469A833D00"
+              }
+            ]
+          },
+          "distance": 5.27387329619151,
+          "latitude": "",
+          "listingId": 480746695,
+          "longitude": "",
+          "phone": "(888) 225-9584",
+          "state": "",
+          "street": "",
+          "websiteURL": "http://c.ypcdn.com/2/c/rtd?vrid=zmts56892d&rid=623b14cc-ee58-4ad5-a46a-7cfca45bca38&ptid=zmts56892d&ypid=480746695&lid=1000722674422&tl=6&lsrc=IY&dest=http%3A%2F%2Fwww.maaco.com%2F%3Futm_medium%3Dyellowpages%26utm_source%3Dbry%26utm_campaign%3Dnational",
+          "zip": ""
+        }
+      ]
+    }
+  }
+}
