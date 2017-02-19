@@ -34,8 +34,15 @@ Step 2: Crawl these webpages and find out the services offered<br />
         - We categorize the service page to be in the form of photos or text<br /> ----->(To do: Now that we have the list of coupon urls which mostly has images, we need to read this using the Google vision API and read the images) Ravi does this sound right to you?
         - After categorization we extract the features which could be prices, coupons, rebates. (We need to deicde on the list of features)<br />
         - The above extracted features need to be put in a csv file which the app will use<br />
-Step 3: The app reads the csv file and shows the captured information based on place, state, etc(more info can be added to the classification part here that is place, state and more based on the data we gather)<br /> --->(Should we show all coupon codes 
+Step 3: The app reads the csv file and shows the captured information based on place, state, location,make and model of the car, etc(more info can be added to the classification part here that is place, state and more based on the data we gather)<br /> --->(Should we show all coupon codes 
 
+Step4: verify the data is downloadable and can be searched based on categories.
+
+Step5: Data can be pulled on phones using mob application as well on the website.
+
+How to use the pictures with bar code,can they be save it in phone pictures, or create a wallet app(to store the pic you want)for later use.
+
+step6: Go or No-Go decision of the app.
 
 Current status: We have done a part of step 1 where we can extract the coupon webpages given a webpage. We will need urls for this however which will be extracted from the yelp api(correct me if I am wrong).
 
